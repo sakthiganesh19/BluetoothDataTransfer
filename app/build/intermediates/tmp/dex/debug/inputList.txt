@@ -1,0 +1,5 @@
+/Users/Sakthi/AndroidStudioProjects/BluetoothDataTransfer/app/build/intermediates/classes/debug
+/Users/Sakthi/AndroidStudioProjects/BluetoothDataTransfer/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-14545e3e032b801b4a23f9bb100ed7be0156442d.jar
+/Users/Sakthi/AndroidStudioProjects/BluetoothDataTransfer/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-17d13888fbfec4f3fd3336651dacd6bef5fb82a9.jar
+/Users/Sakthi/AndroidStudioProjects/BluetoothDataTransfer/app/build/intermediates/pre-dexed/debug/classes-d051b317f52fe5e126203162573506ddbf04bcb8.jar
+/Users/Sakthi/AndroidStudioProjects/BluetoothDataTransfer/app/build/intermediates/pre-dexed/debug/classes-e0d024c394c9cc170beaf627821d6d9fc29dd98c.jar
